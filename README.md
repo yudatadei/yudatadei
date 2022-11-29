@@ -1,10 +1,10 @@
 # Hi there, I'm Yudatadei 👋
 
-## I'm a passionate fullstack web and Android developer
+## I'm a passionate fullstack web developer
 
 -   🔭 I’m currently working on **some private projects**
--   🌱 I’m currently learning **Node Js, GraphQL, Next Js**
--   💬 Ask me about **React, Django, Native Android development**
+-   🌱 I’m currently learning **GraphQL**
+-   💬 Ask me about **React, Nextjs, Nodejs, Django, javascript, ptyhon**
 -   📫 How to reach me **ydtadei@gmail.com**
 -   👯 I’m looking to contribute more to Open Source projects
 
@@ -20,14 +20,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <!-- <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
             alt="android"
             width="40"
             height="40"
         />
-    </a>
+    </a> -->
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
@@ -40,14 +40,6 @@
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3"
             width="40"
             height="40"
         />
@@ -71,14 +63,14 @@
             height="40"
         />
     </a>
-    <!-- <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
             alt="express"
             width="40"
             height="40"
         />
-    </a> -->
+    </a>
     <!-- <a href="https://flutter.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
     </a> -->
@@ -118,9 +110,6 @@
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
     </a>
-    <!-- <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-    </a> -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -137,14 +126,14 @@
             height="40"
         />
     </a> -->
-    <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs"
             width="40"
             height="40"
         />
-    </a> -->
+    </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -184,6 +173,15 @@
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript"
+            width="40"
+            height="40"
+        />
+    </a>
+    <!-- nextjs -->
+    <a href="https://www.nextjs.org/" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+            alt="nextjs"
             width="40"
             height="40"
         />
@@ -235,6 +233,7 @@ _NOTE: Top languages does not indicate my skill level, it's a github metric of w
 <br></br>
 <br></br>
 
+<!-- most used languages -->
 <p>
     <img
         align="left"
