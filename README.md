@@ -210,7 +210,7 @@ _NOTE: Top languages does not indicate my skill level, it's a github metric of w
 <p>
     <img
         align="left"
-        src="https://yudatadei-git-stats.vercel.app/api?username=yudatadei&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&locale=en&bg_color=00000000&text_color=3498db"
+        src="https://yudatadei.vercel.app/api?username=yudatadei&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&locale=en&bg_color=00000000&text_color=3498db"
         alt="yudatadei"
     />
 </p>
@@ -237,7 +237,7 @@ _NOTE: Top languages does not indicate my skill level, it's a github metric of w
 <p>
     <img
         align="left"
-        src="https://yudatadei-git-stats.vercel.app/api/top-langs?username=yudatadei&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&locale=en&langs_count=10&layout=compact&hide=C,C%2B%2B,Tex,SCSS,Common+Lisp,Procfile,Dockerfile&bg_color=00000000&text_color=3498db"
+        src="https://yudatadei.vercel.app/api/top-langs?username=yudatadei&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&locale=en&langs_count=10&layout=compact&hide=C,C%2B%2B,Tex,SCSS,Common+Lisp,Procfile,Dockerfile&bg_color=00000000&text_color=3498db"
         alt="yudatadei"
     />
     </p>
