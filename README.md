@@ -3,7 +3,7 @@
 ## I'm a passionate fullstack web developer
 
 -   🔭 I’m currently working on **some private projects**
--   🌱 I’m currently learning **GraphQL**
+<!-- -   🌱 I’m currently learning **GraphQL** -->
 -   💬 Ask me about **React, Nextjs, Nodejs, Django, javascript, ptyhon**
 -   📫 How to reach me **ydtadei@gmail.com**
 -   👯 I’m looking to contribute more to Open Source projects
